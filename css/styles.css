@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap'); body{font-family: 'Noto Serif JP', serif;} */
+
+/* body{font-family: "Kokoro";} */
+body{font-family: "Sawarabi Mincho";}
+
+.shonan-color{
+    color: #003eaf !important;
+}
+
+.shonan-bg{
+    background-color: #003eaf !important;
+}
+
+.box{
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
